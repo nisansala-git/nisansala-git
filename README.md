@@ -31,11 +31,12 @@
 ### 📌 Featured Projects
 
 - 🌐 **[My Portfolio](https://my-portfolio-kappa-nine-13.vercel.app)** — Personal portfolio website built with React, deployed on Vercel
-- 🏟️ **Indoor Sports Complex Management System** — Full-stack MERN application for managing bookings and facilities
-- 🎉 **University Event Management System** — MERN-based platform for organizing and managing campus events
-- 🧪 **[IT23707122 — Singlish to Sinhala Transliteration Testing](https://github.com/nisansala-git/IT23707122)** — Playwright + Python automation testing project
-- 📱 Android Studio mobile application
-- 🎨 Figma UI/UX design project
+- 🏟️ **[Indoor Sports Complex Management System](https://github.com/nisansala-git/indoor-sports-complex-management-system)** — Full-stack MERN application for managing court bookings, equipment, payments and staff dashboards
+- 🎉 **[EventSync — University Event Management System](https://github.com/Jagarthana/EventSync)** — MERN-based platform for organizing and managing campus events *(contributor)*
+- 🏫 **[Smart Campus System](https://github.com/Jagarthana/it3030-paf-2026-smart-campus-group14)** — Spring Boot web application for smart campus management *(contributor)*
+- 🧪 **[Singlish to Sinhala Transliteration Testing](https://github.com/nisansala-git/IT23707122_Assignment1)** — Playwright + Python automation testing project
+- 📱 **[SnoozeMeter](https://github.com/nisansala-git/SnoozeMeter)** — Android sleep tracking app built with Kotlin
+- 🎨 **[UI/UX Design — Lab Exam](https://www.figma.com/design/4JGS2Z2UdiwzIJ4bHE6Vx9/Lab-exam-1?node-id=0-1&t=x42COrDxnJEmHxpR-1)** — UI design project created in Figma
 
 ---
 
